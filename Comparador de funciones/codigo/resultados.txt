@@ -1,0 +1,3 @@
+Iguales:(H,I)
+Similares:(A,B) (A,D) (B,D) (B,E) (B,G) (C,D) (C,E) (C,F) (D,E) (D,F) (D,G) (D,H) (D,I) (E,F) (E,G) (E,H) (E,I) (F,G) (F,H) (F,I) (G,H) (G,I) (H,J) (I,J)
+Diferentes:(A,C) (A,E) (A,F) (A,G) (A,H) (A,I) (A,J) (B,C) (B,F) (B,H) (B,I) (B,J) (C,G) (C,H) (C,I) (C,J) (D,J) (E,J) (F,J) (G,J)
